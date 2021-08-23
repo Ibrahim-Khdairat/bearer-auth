@@ -1,10 +1,13 @@
 # LAB - 07 bearer-auth
 
-### Deployment Test
 
 **Author: Ibrahim Khdairat**
 
+### Deployment Test
 
+
+- [back-end](https://ibrahim-bearer-auth.herokuapp.com/).
+- [pull request](https://github.com/Ibrahim-Khdairat/bearer-auth/pull/1).
 
 **Setup**
 
